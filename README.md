@@ -45,7 +45,7 @@
 - hiratanveer1430@gmail.com * 
 
 🔗 **LinkedIn:** [Hira Tanveer](https://www.linkedin.com/in/hira-tanveer-09ab62270/)  
-🐙 **GitHub:** [oreo925](https://github.com/hiraa001)
+🐙 **GitHub:** [hiraa001](https://github.com/hiraa001)
 
 ---
 
