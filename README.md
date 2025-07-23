@@ -31,11 +31,12 @@
 ---
 
 ## 🚀 Projects  
-- **Premi** – Real-time AI-based chatbot  
-- **Daardoor** – React.js-based real estate website (Iran)  
-- **Modula Application** – AI/ML-powered app for 3D car models (Dubai dealership)  
-- **Postal Management System**  
-- **Centralized Polio Management System**
+- **Premier Private Gp** – 
+- **Image Enhancer And Editor**
+- **Dardoor**
+- **Speech Emotion And Recongnition**
+- **Quran App**
+
 
 ---
 
